@@ -7,6 +7,7 @@
 [![Minhas habilidades](https://skillicons.dev/icons?i=git,github,react,vscode,npm,javascript,nodejs,)](https://skillicons.dev)
 
 ## Imagens dos exercicios Web/Mobile
+<Text> Através do container (View) acoplei o layout que contém o Cabeçalho, Conteúdo Principal e o Rodapé. O container: { flex: 1 } faz com que o container esteja centralizado na tela, com isso, fazendo ocupar todos os espaços disponiveis. Flex 1 faz com que o cabeçalho ocupe toda a parte superior da tela. os backgroundColor define a cor de geral no Cabeçalho, Conteúdo Principal e do Rodapé. JustifyContent o eixo vertical e alignItems o eixo horizontal</Text>
 <details>
 <summary>📦 Ver todas as imagens em grade</summary>
 <p align="center">
