@@ -1,5 +1,29 @@
-![Imagem do WhatsApp de 2025-09-03 à(s) 22 55 40_9d6ae676](https://github.com/user-attachments/assets/0b182e7b-c5af-4e7c-ab4a-4d75284db569)
-![Imagem do WhatsApp de 2025-09-03 à(s) 23 18 40_c703c46d](https://github.com/user-attachments/assets/7a2e9009-4a72-4e98-8195-fec7dc9e6051)
-![Imagem do WhatsApp de 2025-09-03 à(s) 22 55 40_a211f7ba](https://github.com/user-attachments/assets/02cead5e-5b03-4c97-ab61-d0de756f79d8)
-![Imagem do WhatsApp de 2025-09-03 à(s) 22 55 40_60a354af](https://github.com/user-attachments/assets/d5c690ef-2047-4f13-b431-c27ff41d220c)
-![Imagem do WhatsApp de 2025-09-03 à(s) 23 57 55_d26263c4](https://github.com/user-attachments/assets/9fac7eeb-0726-4fce-955e-53cd97315b02)
+# Programaçãp de Dispositivos Móveis - P5 - Professor Kelson
+
+## Objetivo principal
+- Criar um site funcional, responsivel e com boa usabilidade. Que funcione tanto Web como Mobile.
+
+## Ferramentas e Linguagem utilizada
+[![Minhas habilidades](https://skillicons.dev/icons?i=git,github,react,vscode,npm,javascript,nodejs,)](https://skillicons.dev)
+
+## Imagens dos exercicios Web/Mobile
+<details>
+<summary>📦 Ver todas as imagens em grade</summary>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0b182e7b-c5af-4e7c-ab4a-4d75284db569" alt="Img 1" width="240" />
+<img src="https://github.com/user-attachments/assets/7a2e9009-4a72-4e98-8195-fec7dc9e6051" alt="Img 2" width="240" />
+<img src="https://github.com/user-attachments/assets/02cead5e-5b03-4c97-ab61-d0de756f79d8" alt="Img 3" width="240" />
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d5c690ef-2047-4f13-b431-c27ff41d220c" alt="Img 4" width="240" />
+<img src="https://github.com/user-attachments/assets/9fac7eeb-0726-4fce-955e-53cd97315b02" alt="Img 5" width="240" />
+<img src="https://github.com/user-attachments/assets/7199820b-dbd6-4010-aa96-ae1f5cbe2211" alt="Img 6" width="240" />
+</p>
+</details>
+
+## Comandos necessários para rodar aplicação
+- npx create-expo-app@latest nome --template blank (criar projeto do zero)
+- npm start / W (WEB)
+- npx expo start --tunnel (em caso de divergências na rede wifi)
+- npm start (rodar projeto sem conflitos)
+
